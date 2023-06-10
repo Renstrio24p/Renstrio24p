@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waren Gador</h1>
 <h3 align="center">A React Artisan Learner and Discover new things</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=renstrio24p&label=Profile%20views&color=0e75b6&style=flat" alt="renstrio24p" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=renstrio24p&label=Profile%20views&color=0e75b6&style=flat" alt="renstrio24p" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renstrio24p" alt="renstrio24p" /></a> </p>
 
