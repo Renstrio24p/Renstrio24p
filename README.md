@@ -1,6 +1,46 @@
 # 💫 About Me:
 React Projects<br>Collaborative Groups<br>Community<br>React,Three JS and Typescript<br>React and CSS <br>Fast Learner and Easily to catch up.
 
+<br>
+   ## Templates ##
+
+Standalone Templates
+
+  Template Available for these Tech Stacks
+
+  - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  - ![React Types](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)[](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+  - I created these template for beginners who want to explore these stacks below
+
+ Javascript - JS    
+
+        Webpack - npx @standalone-stacks/javascript my-project
+        Vite    - npx @standalone-stacks/javascript-vite my-project
+
+ Typescript - TS
+
+       Webpack - npx @standalone-stacks/typescript my-project
+       Vite    - npx @standalone-stacks/typescript-vite my-project
+
+ React - JSX
+
+      Webpack React 18 - npx @standalone-stacks/react my-project
+              React 17 - npx @standalone-stacks/react-17 my-project
+
+      Vite    React 18 - npx @standalone-stacks/react-vite my-project
+
+React Typescript - TSX
+
+      Webpack - npx @standalone-stack/react-ts my-project
+
+      Vite    - npx @standalone-stack/react-ts-vite my-project
+
+     
+      
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Renstrio24#5696) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/renstrio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/waren-gador-18505b1b7/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21097674) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@waren_gador) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Renstrio24p) 
