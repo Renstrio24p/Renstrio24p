@@ -21,7 +21,7 @@ Runtime Technologies that I used.
   - [x] ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   - [x] ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   - [x] ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  - [x] ![React Types](https://img.shields.io/badge/react-typescript-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=type&logoColor=white)
+  - [x] ![React Types](https://img.shields.io/badge/react&typescript-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=type&logoColor=white)
 
 I created these template for beginners who want to explore these stacks below. 
 <br>these are the list of commands to use to start your very own project.
