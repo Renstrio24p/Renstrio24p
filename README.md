@@ -4,11 +4,14 @@ React Projects<br>Collaborative Groups<br>Community<br>React,Three JS and Typesc
 <br>
    ## Templates ##
 
-Standalone Templates
+Standalone Stacks Templates
+
+![image](https://github.com/Renstrio24p/Renstrio24p/assets/123795328/1e9caee3-c743-47c8-b127-547443dcc292)
+
 
   Template Available for these Tech Stacks
 
-  - [x] ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  - [x] ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript& logoColor=%23F7DF1E)
   - [x] ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   - [x] ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   - [x] ![React Types](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
