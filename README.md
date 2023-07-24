@@ -17,8 +17,12 @@ Standalone Stacks Templates
   - [x] ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   - [x] ![React Types](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-I created these template for beginners who want to explore these stacks below 
-these are the list of commands to use to start your very own project
+I created these template for beginners who want to explore these stacks below. 
+<br>these are the list of commands to use to start your very own project.
+
+make sure you install Node JS before proceeding.
+
+https://camo.githubusercontent.com/5369783977e8ca846c925619b3ffc865f4ac9cecc41b6ac914e69a07c295f80d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f372f37652f4e6f64652e6a735f6c6f676f5f323031352e737667
 
 ☕ - Buy me coffee 
 
