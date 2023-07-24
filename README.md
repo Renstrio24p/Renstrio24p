@@ -8,6 +8,10 @@ Standalone Stacks Templates
 
 ![68747470733a2f2f692e6962622e636f2f784368716b62742f436c6970626f6172642d322d72656d6f766562672d707265766965772e706e67](https://github.com/Renstrio24p/Renstrio24p/assets/123795328/4735d9bc-6e6a-4201-86d2-834eb8b7e614)
 
+Runtime Technologies that I used.
+
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) and ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
 
 
   Template Available for these Tech Stacks
