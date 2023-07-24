@@ -22,7 +22,7 @@ I created these template for beginners who want to explore these stacks below.
 
 make sure you install Node JS before proceeding.
 
-![1200px-Node js_logo svg](https://github.com/Renstrio24p/Renstrio24p/assets/123795328/5d89c7ac-61ff-45ab-8f81-939a00f2f0bc)
+![800px-Node js_logo svg](https://github.com/Renstrio24p/Renstrio24p/assets/123795328/5d89c7ac-61ff-45ab-8f81-939a00f2f0bc)
 
 ☕ - Buy me coffee 
 
