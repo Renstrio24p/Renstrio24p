@@ -22,7 +22,7 @@ Runtime Technologies that I used.
   - [x] ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   - [x] ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   - [x] ![React Types](https://img.shields.io/badge/react&nbsp;Typescript-%2307405e.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
+  - [x] ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 I created these template for beginners who want to explore these stacks below. 
 <br>these are the list of commands to use to start your very own project.
 
@@ -54,6 +54,10 @@ React Typescript - TSX
       Webpack - npx @standalone-stack/react-ts my-project
 
       Vite    - npx @standalone-stack/react-ts-vite my-project
+
+Vue 
+
+      Webpack - npx @standalone-stacks/vue my-project
 
      
       
