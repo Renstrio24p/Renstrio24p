@@ -25,6 +25,7 @@ Runtime Technologies that I used.
   - [x] ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
         
+<br>
 I created these template for beginners who want to explore these stacks below. 
 <br>these are the list of commands to use to start your very own project.
 
