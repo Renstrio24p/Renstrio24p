@@ -26,7 +26,7 @@ Runtime Technologies that I used.
   - [x] ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
   - [x] ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
   - [x] ![Svelte](https://img.shields.io/badge/svelte&nbsp;typescript-%23f1415d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-  - [x] ![Preact](https://img.shields.io/badge/preact-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  - [x] ![Preact](https://img.shields.io/badge/preact-%2320232a.svg?style=for-the-badge&logo=preact&logoColor=%2361DAFB)
  
 
         
