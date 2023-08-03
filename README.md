@@ -24,6 +24,8 @@ Runtime Technologies that I used.
   - [x] ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   - [x] ![React Types](https://img.shields.io/badge/react&nbsp;Typescript-%2307405e.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   - [x] ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  - [x] ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+  - [x] ![Svelte](https://img.shields.io/badge/svelte-Typescript-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)  
 
         
 <br>
