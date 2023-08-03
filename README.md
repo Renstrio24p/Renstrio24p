@@ -19,20 +19,15 @@ Runtime Technologies that I used.
 
   Template Available for these Tech Stacks
   
- ![Javascript]("https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E")
- <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /></li>
-  <li style='list-style: none'><input type="checkbox" checked /> <img src="https://img.shields.io/badge/react&nbsp;Typescript-%2307405e.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React TypeScript" /></li>
-  <li style='list-style: none'><input type="checkbox" checked /> <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" /></li>
-  <li style='list-style: none'><input type="checkbox" checked /> <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" /></li>
-  <li style='list-style: none'><input type="checkbox" checked /> <img src="https://img.shields.io/badge/svelte&nbsp;typescript-%23f1415d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte TypeScript" /></li>
-  <li style='list-style: none'><input type="checkbox" checked /> <img src="https://img.shields.io/badge/preact-%2320232a.svg?style=for-the-badge&logo=preact&logoColor=%2361DAFB" alt="Preact" /></li>
-</ul>
-
-
- 
-
-        
+  - [x] ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  - [x] ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  - [x] ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  - [x] ![React Types](https://img.shields.io/badge/react&nbsp;Typescript-%2307405e.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  - [x] ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  - [x] ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+  - [x] ![Svelte](https://img.shields.io/badge/svelte&nbsp;typescript-%23f1415d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+  - [x] ![Preact](https://img.shields.io/badge/preact-%2320232a.svg?style=for-the-badge&logo=preact&logoColor=%2361DAFB)
+      
 <br>
 I created these template for beginners who want to explore these stacks below. 
 <br>these are the list of commands to use to start your very own project.
