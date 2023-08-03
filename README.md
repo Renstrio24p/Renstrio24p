@@ -8,7 +8,7 @@ React Projects<br>Collaborative Groups<br>Community<br>React,Three JS and Typesc
 
 Standalone Stacks Templates
 
-![68747470733a2f2f692e6962622e636f2f784368716b62742f436c6970626f6172642d322d72656d6f766562672d707265766965772e706e67](https://github.com/Renstrio24p/Renstrio24p/assets/123795328/4735d9bc-6e6a-4201-86d2-834eb8b7e614)
+https://media3.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952odw68vfy4itr72e5mw0u65id1sf87jwaa7ro83o5&ep=v1_stickers_related&rid=giphy.gif&ct=s
 
 Runtime Technologies that I used.
 
