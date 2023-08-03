@@ -19,16 +19,11 @@ Runtime Technologies that I used.
 
   Template Available for these Tech Stacks
 
-<table align="left">
-  <tr>
-    <td>
-      <input type="checkbox" checked />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-    </td>
-  </tr>
-</table>
+<div style="text-align: center;">
+  <input type="checkbox" checked />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</div>
+
 
 
 
