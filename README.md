@@ -19,27 +19,7 @@ Runtime Technologies that I used.
 
   Template Available for these Tech Stacks
   
-<style>
-  ul {
-    list-style: none;
-    padding: 0;
-  }
-
-  li {
-    display: flex;
-    align-items: center;
-  }
-
-  input[type="checkbox"] {
-    margin-right: 8px;
-  }
-
-  img {
-    vertical-align: middle;
-  }
-</style>
-
-<ul>
+<ul style='list-style: none'>
   <li><input type="checkbox" checked /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></li>
   <li><input type="checkbox" checked /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></li>
   <li><input type="checkbox" checked /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /></li>
