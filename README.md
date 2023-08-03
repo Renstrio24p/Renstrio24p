@@ -8,7 +8,7 @@ React Projects<br>Collaborative Groups<br>Community<br>React,Three JS and Typesc
 
 Standalone Stacks Templates
 
-<img src='https://media3.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952odw68vfy4itr72e5mw0u65id1sf87jwaa7ro83o5&ep=v1_stickers_related&rid=giphy.gif&ct=s' alt='react' />
+<img src='https://media3.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952odw68vfy4itr72e5mw0u65id1sf87jwaa7ro83o5&ep=v1_stickers_related&rid=giphy.gif&ct=s' alt='react' width=40px />
 
 Runtime Technologies that I used.
 
