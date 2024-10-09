@@ -6,8 +6,10 @@ I am a fast learner with a focus on **React**, **Three.js**, and **TypeScript**.
 
 ### Standalone Stacks Templates
 
-<img src="https://media3.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952odw68vfy4itr72e5mw0u65id1sf87jwaa7ro83o5&ep=v1_stickers_related&rid=giphy.gif&ct=s&size=40" width=40 height=40 />
-<img src="https://github.com/Renstrio24p/Renstrio24p/assets/123795328/7ec77641-55cb-4554-8301-61b2f0ba41f5" height=40 />
+<div style="display:flex; align-items:center, gap:4">
+  <img src="https://media3.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952odw68vfy4itr72e5mw0u65id1sf87jwaa7ro83o5&ep=v1_stickers_related&rid=giphy.gif&ct=s&size=40" width=40 height=40 />
+  <img src="https://github.com/Renstrio24p/Renstrio24p/assets/123795328/7ec77641-55cb-4554-8301-61b2f0ba41f5" height=40 />
+</div>
 
 ### Runtime Technologies Used
 
