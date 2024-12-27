@@ -69,9 +69,4 @@ I created these templates for beginners wanting to explore various tech stacks. 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 💬 Random Developer Quotes
-> "Programming isn't about what you know; it's about what you can figure out." – Chris Pine  
-> "The best way to predict the future is to invent it." – Alan Kay  
-> "Talk is cheap. Show me the code." – Linus Torvalds  
-> "Simplicity is the soul of efficiency." – Austin Freeman  
-> "It's not a bug; it's an undocumented feature." – Anonymous  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
