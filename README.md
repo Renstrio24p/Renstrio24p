@@ -23,7 +23,8 @@ I am a fast learner with a focus on **React**, **Three.js**, and **TypeScript**.
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 - ![React Types](https://img.shields.io/badge/react&nbsp;Typescript-%2307405e.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 - ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-- ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
+- ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+- ![Go](https://img.shields.io/badge/Go?style=for-the-badge&logo=Go&logoColor=white) 
 
 I created these templates for beginners wanting to explore various tech stacks. Here are the commands to start your project (ensure Node.js is installed):
 
