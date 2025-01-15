@@ -2,9 +2,27 @@
 
 I am a fast learner with a focus on **React**, **Three.js**, and **TypeScript**. I enjoy working in collaborative groups and contributing to community projects.
 
+I'm happy to share my experience as a Full Stack Web Developer for 4 years of experience in Designing UI / UX Interactive Applications using Figma Design and Follow SEO Principles and Strict Alignments, layouts and color palettes to make more user friendly web applications.
+
+Technologies
+- TypeScript / JavaScript (Nodenext) 
+- React / React Native / Angular / Vue / Nuxt JS / Nest JS
+- Go / Rust
+- MongoDB / MySQL / PostgreSQL / 
+- BUN / DENO / NODE JS
+- Express AND GO Fiber v2
+- Webpack / Vite 6 / Esbuild - Bundlers used in my projects.
+- TailwindCSS / Bootstrap v6 / SCSS
+- Magic UI / Chakra UI / Shadcn UI
+- Framer Motion / React Three / Three JS
+
+"I am blessed with intelligence, guided by the grace of God Almighty, who grants me life, wisdom, empathy, and respect for others. With a heart full of gratitude, I strive to serve and embrace my work with unwavering dedication, initiative, and love—always giving my best without hesitation." - Dev Waren
+
+I am working as a Full Stack Developer at MAGIC 89.9 Collaborating on projects and large scale applications using GO, Rust and React with TypeScript SSR.
+
 ## Templates
 
-### Standalone Stacks Templates
+### Standalone Stack Templates
 
 <div style="display:flex; align-items:center, gap:4">
   <img src="https://media3.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952odw68vfy4itr72e5mw0u65id1sf87jwaa7ro83o5&ep=v1_stickers_related&rid=giphy.gif&ct=s&size=40" width=40 height=40 />
